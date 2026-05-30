@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\code\\Nam3_HK2_25-26\\LT_DD\\Tuan11\\MVC\\StudentManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22413072-3004-444B-B4EA-A6C198565721}|StudentManagement\\StudentManagement.csproj|d:\\code\\nam3_hk2_25-26\\lt_dd\\tuan11\\mvc\\studentmanagement\\studentmanagement\\controllers\\resultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22413072-3004-444B-B4EA-A6C198565721}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\resultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{22413072-3004-444B-B4EA-A6C198565721}|StudentManagement\\StudentManagement.csproj|d:\\code\\nam3_hk2_25-26\\lt_dd\\tuan11\\mvc\\studentmanagement\\studentmanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22413072-3004-444B-B4EA-A6C198565721}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +11,16 @@
       "RelativeMoniker": "D:0:0:{22413072-3004-444B-B4EA-A6C198565721}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\authmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22413072-3004-444B-B4EA-A6C198565721}|StudentManagement\\StudentManagement.csproj|d:\\code\\nam3_hk2_25-26\\lt_dd\\tuan11\\mvc\\studentmanagement\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22413072-3004-444B-B4EA-A6C198565721}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22413072-3004-444B-B4EA-A6C198565721}|StudentManagement\\StudentManagement.csproj|d:\\code\\nam3_hk2_25-26\\lt_dd\\tuan11\\mvc\\studentmanagement\\studentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{22413072-3004-444B-B4EA-A6C198565721}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{22413072-3004-444B-B4EA-A6C198565721}|StudentManagement\\StudentManagement.csproj|d:\\code\\nam3_hk2_25-26\\lt_dd\\tuan11\\mvc\\studentmanagement\\studentmanagement\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22413072-3004-444B-B4EA-A6C198565721}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22413072-3004-444B-B4EA-A6C198565721}|StudentManagement\\StudentManagement.csproj|d:\\code\\nam3_hk2_25-26\\lt_dd\\tuan11\\mvc\\studentmanagement\\studentmanagement\\controllers\\resultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22413072-3004-444B-B4EA-A6C198565721}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\resultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22413072-3004-444B-B4EA-A6C198565721}|StudentManagement\\StudentManagement.csproj|d:\\code\\nam3_hk2_25-26\\lt_dd\\tuan11\\mvc\\studentmanagement\\studentmanagement\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22413072-3004-444B-B4EA-A6C198565721}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22413072-3004-444B-B4EA-A6C198565721}|StudentManagement\\StudentManagement.csproj|d:\\code\\nam3_hk2_25-26\\lt_dd\\tuan11\\mvc\\studentmanagement\\studentmanagement\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +29,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{22413072-3004-444B-B4EA-A6C198565721}|StudentManagement\\StudentManagement.csproj|d:\\code\\nam3_hk2_25-26\\lt_dd\\tuan11\\mvc\\studentmanagement\\studentmanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22413072-3004-444B-B4EA-A6C198565721}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22413072-3004-444B-B4EA-A6C198565721}|StudentManagement\\StudentManagement.csproj|d:\\code\\nam3_hk2_25-26\\lt_dd\\tuan11\\mvc\\studentmanagement\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22413072-3004-444B-B4EA-A6C198565721}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22413072-3004-444B-B4EA-A6C198565721}|StudentManagement\\StudentManagement.csproj|d:\\code\\nam3_hk2_25-26\\lt_dd\\tuan11\\mvc\\studentmanagement\\studentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22413072-3004-444B-B4EA-A6C198565721}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +46,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\code\\Nam3_HK2_25-26\\LT_DD\\Tuan11\\MVC\\StudentManagement\\StudentManagement\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\code\\Nam3_HK2_25-26\\LT_DD\\Tuan11\\MVC\\StudentManagement\\StudentManagement\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "StudentManagement\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T08:09:57.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ResultController.cs",
               "DocumentMoniker": "D:\\code\\Nam3_HK2_25-26\\LT_DD\\Tuan11\\MVC\\StudentManagement\\StudentManagement\\Controllers\\ResultController.cs",
               "RelativeDocumentMoniker": "StudentManagement\\Controllers\\ResultController.cs",
@@ -59,33 +75,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\code\\Nam3_HK2_25-26\\LT_DD\\Tuan11\\MVC\\StudentManagement\\StudentManagement\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "StudentManagement\\Controllers\\AuthController.cs",
               "ToolTip": "D:\\code\\Nam3_HK2_25-26\\LT_DD\\Tuan11\\MVC\\StudentManagement\\StudentManagement\\Controllers\\AuthController.cs",
               "RelativeToolTip": "StudentManagement\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-30T07:02:57.595Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AuthModels.cs",
               "DocumentMoniker": "D:\\code\\Nam3_HK2_25-26\\LT_DD\\Tuan11\\MVC\\StudentManagement\\StudentManagement\\Models\\AuthModels.cs",
               "RelativeDocumentMoniker": "StudentManagement\\Models\\AuthModels.cs",
               "ToolTip": "D:\\code\\Nam3_HK2_25-26\\LT_DD\\Tuan11\\MVC\\StudentManagement\\StudentManagement\\Models\\AuthModels.cs",
               "RelativeToolTip": "StudentManagement\\Models\\AuthModels.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA4wBcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBAAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-30T07:00:28.82Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\code\\Nam3_HK2_25-26\\LT_DD\\Tuan11\\MVC\\StudentManagement\\StudentManagement\\Program.cs",
               "RelativeDocumentMoniker": "StudentManagement\\Program.cs",
@@ -93,12 +109,11 @@
               "RelativeToolTip": "StudentManagement\\Program.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T06:57:12.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-30T06:57:12.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\code\\Nam3_HK2_25-26\\LT_DD\\Tuan11\\MVC\\StudentManagement\\StudentManagement\\appsettings.json",
               "RelativeDocumentMoniker": "StudentManagement\\appsettings.json",
@@ -106,25 +121,24 @@
               "RelativeToolTip": "StudentManagement\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-30T06:55:59.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-30T06:55:59.134Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\code\\Nam3_HK2_25-26\\LT_DD\\Tuan11\\MVC\\StudentManagement\\StudentManagement\\Models\\AppDbContext.cs",
               "RelativeDocumentMoniker": "StudentManagement\\Models\\AppDbContext.cs",
               "ToolTip": "D:\\code\\Nam3_HK2_25-26\\LT_DD\\Tuan11\\MVC\\StudentManagement\\StudentManagement\\Models\\AppDbContext.cs",
               "RelativeToolTip": "StudentManagement\\Models\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-30T06:23:56.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Result.cs",
               "DocumentMoniker": "D:\\code\\Nam3_HK2_25-26\\LT_DD\\Tuan11\\MVC\\StudentManagement\\StudentManagement\\Models\\Result.cs",
               "RelativeDocumentMoniker": "StudentManagement\\Models\\Result.cs",
@@ -132,12 +146,11 @@
               "RelativeToolTip": "StudentManagement\\Models\\Result.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T06:20:45.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-30T06:20:45.121Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\code\\Nam3_HK2_25-26\\LT_DD\\Tuan11\\MVC\\StudentManagement\\StudentManagement\\Models\\User.cs",
               "RelativeDocumentMoniker": "StudentManagement\\Models\\User.cs",
@@ -145,8 +158,7 @@
               "RelativeToolTip": "StudentManagement\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T06:20:09.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-30T06:20:09.463Z"
             }
           ]
         }

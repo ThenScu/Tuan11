@@ -76,3 +76,4 @@ D:\code\Nam3_HK2_25-26\LT_DD\Tuan11\MVC\StudentManagement\StudentManagement\obj\
 D:\code\Nam3_HK2_25-26\LT_DD\Tuan11\MVC\StudentManagement\StudentManagement\obj\Debug\net8.0\StudentManagement.genruntimeconfig.cache
 D:\code\Nam3_HK2_25-26\LT_DD\Tuan11\MVC\StudentManagement\StudentManagement\obj\Debug\net8.0\ref\StudentManagement.dll
 D:\code\Nam3_HK2_25-26\LT_DD\Tuan11\MVC\StudentManagement\StudentManagement\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\code\Nam3_HK2_25-26\LT_DD\Tuan11\MVC\StudentManagement\StudentManagement\obj\Debug\net8.0\StudentManagement.sourcelink.json

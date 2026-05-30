@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
-
+import 'register_screen.dart';
+import 'result_screen.dart';
 class LoginScreen extends StatefulWidget {
   @override
   _LoginScreenState createState() => _LoginScreenState();
@@ -20,8 +21,6 @@ class _LoginScreenState extends State<LoginScreen> {
       });
 
       try {
-        // ĐỔI ĐỊA CHỈ IP NÀY THÀNH IP MÁY BRO NẾU CHẠY TRÊN MÁY ẢO ANDROID
-        // Thường là 10.0.2.2 thay cho localhost
         final response = await http.post(
           Uri.parse('https://10.0.2.2:7018/api/login'),
           headers: {"Content-Type": "application/json"},
@@ -33,11 +32,19 @@ class _LoginScreenState extends State<LoginScreen> {
 
         if (response.statusCode == 200) {
           final responseData = jsonDecode(response.body);
-          // Tạm thời show thông báo thành công, bài sau code tiếp chuyển trang
-          ScaffoldMessenger.of(context).showSnackBar(
-            SnackBar(content: Text("Đăng nhập thành công! Chào ${responseData['fullName']}")),
+
+          if (!mounted) return;
+          Navigator.pushReplacement(
+            context,
+            MaterialPageRoute(
+              builder: (context) => ResultScreen(
+                userId: responseData['userID'],
+                fullName: responseData['fullName'],
+              ),
+            ),
           );
         } else {
+          if (!mounted) return;
           showDialog(
             context: context,
             builder: (context) => AlertDialog(
@@ -53,6 +60,7 @@ class _LoginScreenState extends State<LoginScreen> {
           );
         }
       } catch (e) {
+        if (!mounted) return;
         showDialog(
           context: context,
           builder: (context) => AlertDialog(
@@ -67,9 +75,11 @@ class _LoginScreenState extends State<LoginScreen> {
           ),
         );
       } finally {
-        setState(() {
-          _isLoading = false;
-        });
+        if (mounted) {
+          setState(() {
+            _isLoading = false;
+          });
+        }
       }
     }
   }
@@ -104,7 +114,7 @@ class _LoginScreenState extends State<LoginScreen> {
                         Icons.school,
                         size: 100,
                         color: Colors.blue.shade800,
-                      ), // Dùng icon tạm thay cho ảnh logo
+                      ),
                       SizedBox(height: 16.0),
                       Text(
                         "Đăng nhập",
@@ -170,12 +180,29 @@ class _LoginScreenState extends State<LoginScreen> {
                           child: _isLoading
                               ? CircularProgressIndicator(color: Colors.white)
                               : Text(
-                                  "Đăng nhập",
-                                  style: TextStyle(
-                                    fontSize: 16,
-                                    color: Colors.white,
-                                  ),
-                                ),
+                            "Đăng nhập",
+                            style: TextStyle(
+                              fontSize: 16,
+                              color: Colors.white,
+                            ),
+                          ),
+                        ),
+                      ),
+                      SizedBox(height: 16.0),
+                      TextButton(
+                        onPressed: () {
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(builder: (context) => RegisterScreen()),
+                          );
+                        },
+                        child: Text(
+                          "Chưa có tài khoản? Đăng ký ngay",
+                          style: TextStyle(
+                            color: Colors.blue.shade800,
+                            fontSize: 15,
+                            fontWeight: FontWeight.bold,
+                          ),
                         ),
                       ),
                     ],
